@@ -1,0 +1,14 @@
+[Unit]
+Description=Run my Python script at startup
+After=network.target
+
+[Service]
+ExecStart=/usr/bin/python3 /home/raspberry/OLED_Stats/stats.py
+WorkingDirectory=/home/raspberry/OLED_Stats
+StandardOutput=inherit
+StandardError=inherit
+Restart=always
+User=raspberry
+
+[Install]
+WantedBy=multi-user.target
