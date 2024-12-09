@@ -1,0 +1,157 @@
+2024-10-10 15:38:12 [INFO] Starting minecraft server version 1.6.4
+2024-10-10 15:38:12 [INFO] Loading properties
+2024-10-10 15:38:12 [WARNING] server.properties does not exist
+2024-10-10 15:38:12 [INFO] Generating new properties file
+2024-10-10 15:38:12 [INFO] Default game type: SURVIVAL
+2024-10-10 15:38:12 [INFO] Generating keypair
+2024-10-10 15:38:12 [INFO] Starting Minecraft server on *:25565
+2024-10-10 15:38:12 [WARNING] Failed to load operators list: java.io.FileNotFoundException: ./ops.txt (No such file or directory)
+2024-10-10 15:38:12 [WARNING] Failed to load white-list: java.io.FileNotFoundException: ./white-list.txt (No such file or directory)
+2024-10-10 15:38:13 [INFO] Preparing level "world"
+2024-10-10 15:38:13 [INFO] Preparing start region for level 0
+2024-10-10 15:38:14 [INFO] Preparing spawn area: 7%
+2024-10-10 15:38:15 [INFO] Preparing spawn area: 15%
+2024-10-10 15:38:16 [INFO] Preparing spawn area: 25%
+2024-10-10 15:38:17 [INFO] Preparing spawn area: 35%
+2024-10-10 15:38:18 [INFO] Preparing spawn area: 44%
+2024-10-10 15:38:19 [INFO] Preparing spawn area: 53%
+2024-10-10 15:38:20 [INFO] Preparing spawn area: 62%
+2024-10-10 15:38:21 [INFO] Preparing spawn area: 73%
+2024-10-10 15:38:22 [INFO] Preparing spawn area: 86%
+2024-10-10 15:38:23 [INFO] Preparing spawn area: 97%
+2024-10-10 15:38:23 [INFO] Done (10.958s)! For help, type "help" or "?"
+2024-10-10 15:38:36 [INFO] --- Showing help page 1 of 6 (/help <page>) ---
+2024-10-10 15:38:36 [INFO] /ban <name> [reason ...]
+2024-10-10 15:38:36 [INFO] /ban-ip <address|name> [reason ...]
+2024-10-10 15:38:36 [INFO] /banlist [ips|players]
+2024-10-10 15:38:36 [INFO] /clear <player> [item] [data]
+2024-10-10 15:38:36 [INFO] /debug <start|stop>
+2024-10-10 15:38:36 [INFO] /defaultgamemode <mode>
+2024-10-10 15:38:36 [INFO] /deop <player>
+2024-10-10 15:38:38 [INFO] [Server] sa
+2024-10-10 15:38:42 [INFO] Stopping the server
+2024-10-10 15:38:42 [INFO] Stopping server
+2024-10-10 15:38:42 [INFO] Saving players
+2024-10-10 15:38:42 [INFO] Saving worlds
+2024-10-10 15:38:42 [INFO] Saving chunks for level 'world'/Overworld
+2024-10-10 15:38:42 [INFO] Closing listening thread
+2024-10-10 15:38:42 [INFO] Saving chunks for level 'world'/Nether
+2024-10-10 15:38:42 [INFO] Saving chunks for level 'world'/The End
+2024-10-10 15:38:43 [INFO] Stopping server
+2024-10-10 20:50:41 [INFO] Starting minecraft server version 1.6.4
+2024-10-10 20:50:41 [INFO] Loading properties
+2024-10-10 20:50:41 [INFO] Default game type: SURVIVAL
+2024-10-10 20:50:41 [INFO] Generating keypair
+2024-10-10 20:50:42 [INFO] Starting Minecraft server on *:25565
+2024-10-10 20:50:42 [INFO] Preparing level "world"
+2024-10-10 20:50:42 [INFO] Preparing start region for level 0
+2024-10-10 20:50:43 [INFO] Preparing spawn area: 59%
+2024-10-10 20:50:44 [INFO] Done (1.639s)! For help, type "help" or "?"
+2024-10-10 20:54:02 [INFO] karacaoglan[/192.168.1.8:51262] logged in with entity id 1128 at (189.5, 63.0, 266.5)
+2024-10-10 20:54:02 [INFO] karacaoglan joined the game
+2024-10-10 20:54:44 [INFO] Opped karacaoglan
+2024-10-10 20:54:53 [INFO] [karacaoglan: Set own game mode to Creative Mode]
+2024-10-10 20:55:56 [INFO] karacaoglan lost connection: disconnect.quitting
+2024-10-10 20:55:56 [INFO] karacaoglan left the game
+2024-10-10 20:57:21 [INFO] Stopping server
+2024-10-10 21:00:51 [INFO] Starting minecraft server version 1.6.4
+2024-10-10 21:00:51 [INFO] Loading properties
+2024-10-10 21:00:51 [INFO] Default game type: SURVIVAL
+2024-10-10 21:00:51 [INFO] Generating keypair
+2024-10-10 21:00:52 [INFO] Starting Minecraft server on *:25565
+2024-10-10 21:00:52 [INFO] Preparing level "world"
+2024-10-10 21:00:52 [INFO] Preparing start region for level 0
+2024-10-10 21:00:53 [INFO] Preparing spawn area: 52%
+2024-10-10 21:00:53 [INFO] Done (1.578s)! For help, type "help" or "?"
+2024-10-10 21:01:57 [INFO] karacaoglan[/192.168.1.8:51557] logged in with entity id 181 at (472.67257798443086, 72.0, 645.5051728763369)
+2024-10-10 21:01:57 [INFO] karacaoglan joined the game
+2024-10-10 21:02:05 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2024-10-10 21:02:21 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2024-10-10 21:03:08 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2024-10-10 21:03:58 [INFO] karacaoglan lost connection: disconnect.quitting
+2024-10-10 21:03:58 [INFO] karacaoglan left the game
+2024-10-10 21:04:41 [INFO] Stopping the server
+2024-10-10 21:04:41 [INFO] Stopping server
+2024-10-10 21:04:41 [INFO] Saving players
+2024-10-10 21:04:41 [INFO] Saving worlds
+2024-10-10 21:04:41 [INFO] Closing listening thread
+2024-10-10 21:04:41 [INFO] Saving chunks for level 'world'/Overworld
+2024-10-10 21:04:41 [INFO] Saving chunks for level 'world'/Nether
+2024-10-10 21:04:41 [INFO] Saving chunks for level 'world'/The End
+2024-10-10 21:04:42 [INFO] Stopping server
+2024-10-29 17:03:43 [INFO] Starting minecraft server version 1.6.4
+2024-10-29 17:03:43 [INFO] Loading properties
+2024-10-29 17:03:44 [INFO] Default game type: SURVIVAL
+2024-10-29 17:03:44 [INFO] Generating keypair
+2024-10-29 17:03:44 [INFO] Starting Minecraft server on *:25565
+2024-10-29 17:03:44 [INFO] Preparing level "world"
+2024-10-29 17:03:44 [INFO] Preparing start region for level 0
+2024-10-29 17:03:45 [INFO] Preparing spawn area: 59%
+2024-10-29 17:03:46 [INFO] Done (1.585s)! For help, type "help" or "?"
+2024-10-29 17:07:09 [INFO] karacaoglan[/192.168.137.1:65348] logged in with entity id 171 at (-59.09724420364266, 76.0, -79.80458355122923)
+2024-10-29 17:07:09 [INFO] karacaoglan joined the game
+2024-10-29 17:07:21 [INFO] karacaoglan lost connection: disconnect.quitting
+2024-10-29 17:07:21 [INFO] karacaoglan left the game
+2024-10-29 17:07:30 [INFO] Stopping the server
+2024-10-29 17:07:30 [INFO] Stopping server
+2024-10-29 17:07:30 [INFO] Saving players
+2024-10-29 17:07:30 [INFO] Saving worlds
+2024-10-29 17:07:30 [INFO] Saving chunks for level 'world'/Overworld
+2024-10-29 17:07:30 [INFO] Closing listening thread
+2024-10-29 17:07:30 [INFO] Saving chunks for level 'world'/Nether
+2024-10-29 17:07:30 [INFO] Saving chunks for level 'world'/The End
+2024-10-29 17:07:43 [INFO] Starting minecraft server version 1.6.4
+2024-10-29 17:07:43 [INFO] Loading properties
+2024-10-29 17:07:43 [INFO] Default game type: SURVIVAL
+2024-10-29 17:07:43 [INFO] Generating keypair
+2024-10-29 17:07:43 [INFO] Starting Minecraft server on *:25565
+2024-10-29 17:07:44 [INFO] Preparing level "world"
+2024-10-29 17:07:44 [INFO] Preparing start region for level 0
+2024-10-29 17:07:45 [INFO] Preparing spawn area: 6%
+2024-10-29 17:07:46 [INFO] Preparing spawn area: 15%
+2024-10-29 17:07:47 [INFO] Preparing spawn area: 25%
+2024-10-29 17:07:48 [INFO] Preparing spawn area: 32%
+2024-10-29 17:07:49 [INFO] Preparing spawn area: 42%
+2024-10-29 17:07:50 [INFO] Preparing spawn area: 52%
+2024-10-29 17:07:51 [INFO] Preparing spawn area: 61%
+2024-10-29 17:07:52 [INFO] Preparing spawn area: 71%
+2024-10-29 17:07:53 [INFO] Preparing spawn area: 82%
+2024-10-29 17:07:54 [INFO] Preparing spawn area: 97%
+2024-10-29 17:07:54 [INFO] Done (11.013s)! For help, type "help" or "?"
+2024-10-29 17:08:44 [INFO] Stopping server
+2024-10-29 17:10:14 [INFO] Starting minecraft server version 1.6.4
+2024-10-29 17:10:14 [INFO] Loading properties
+2024-10-29 17:10:14 [INFO] Default game type: SURVIVAL
+2024-10-29 17:10:14 [INFO] Generating keypair
+2024-10-29 17:10:15 [INFO] Starting Minecraft server on *:25565
+2024-10-29 17:10:15 [INFO] Preparing level "world"
+2024-10-29 17:10:15 [INFO] Preparing start region for level 0
+2024-10-29 17:10:16 [INFO] Preparing spawn area: 5%
+2024-10-29 17:10:17 [INFO] Preparing spawn area: 10%
+2024-10-29 17:10:18 [INFO] Preparing spawn area: 18%
+2024-10-29 17:10:19 [INFO] Preparing spawn area: 27%
+2024-10-29 17:10:20 [INFO] Preparing spawn area: 35%
+2024-10-29 17:10:21 [INFO] Preparing spawn area: 43%
+2024-10-29 17:10:22 [INFO] Preparing spawn area: 53%
+2024-10-29 17:10:23 [INFO] Preparing spawn area: 63%
+2024-10-29 17:10:24 [INFO] Preparing spawn area: 73%
+2024-10-29 17:10:25 [INFO] Preparing spawn area: 85%
+2024-10-29 17:10:26 [INFO] Preparing spawn area: 97%
+2024-10-29 17:10:26 [INFO] Done (11.737s)! For help, type "help" or "?"
+2024-10-29 17:10:42 [INFO] karacaoglan[/192.168.137.1:65410] logged in with entity id 3822 at (44.5, 80.0, 256.5)
+2024-10-29 17:10:42 [INFO] karacaoglan joined the game
+2024-10-29 17:17:31 [INFO] karacaoglan lost connection: disconnect.genericReason
+2024-10-29 17:17:31 [INFO] karacaoglan left the game
+2024-10-29 17:17:41 [INFO] karacaoglan[/192.168.137.1:65440] logged in with entity id 19665 at (492.7813427969814, 67.0, 480.55088578314)
+2024-10-29 17:17:41 [INFO] karacaoglan joined the game
+2024-10-29 17:20:44 [INFO] karacaoglan lost connection: disconnect.quitting
+2024-10-29 17:20:44 [INFO] karacaoglan left the game
+2024-10-29 17:20:48 [INFO] Stopping the server
+2024-10-29 17:20:48 [INFO] Stopping server
+2024-10-29 17:20:48 [INFO] Saving players
+2024-10-29 17:20:48 [INFO] Saving worlds
+2024-10-29 17:20:48 [INFO] Closing listening thread
+2024-10-29 17:20:48 [INFO] Saving chunks for level 'world'/Overworld
+2024-10-29 17:20:48 [INFO] Saving chunks for level 'world'/Nether
+2024-10-29 17:20:48 [INFO] Saving chunks for level 'world'/The End
+2024-10-29 17:20:49 [INFO] Stopping server

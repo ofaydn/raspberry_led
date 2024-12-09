@@ -101,16 +101,16 @@ while True:
     # Pi Stats Display
     draw.text((0, 0), str(IP,'utf-8'), font=font, fill=255)
 
-    draw.text((20, 32), str(CPU, 'utf-8') , font=font, fill=255) #CPU IMAGE
-    draw.text((0,32), chr(62171), font= icon_font, fill=255)
+    draw.text((20, 48), str(CPU, 'utf-8') , font=font, fill=255) #CPU IMAGE
+    draw.text((0,48), chr(62171), font= icon_font, fill=255)
 
-    draw.text((48,32), chr(62609), font=icon_font, fill=255)
-    draw.text((64, 32), Temp , font=font, fill=255)
+    draw.text((48,48), chr(62609), font=icon_font, fill=255)
+    draw.text((64, 48), Temp , font=font, fill=255)
 
-    draw.text((96,32), str(Time, 'utf-8'),font=font, fill=255)
+    draw.text((96,48), str(Time, 'utf-8'),font=font, fill=255)
 
-    draw.text((0,48), chr(62776), font=icon_font, fill=255)
-    draw.text((20, 48), str(MemUsage,'utf-8'), font=font, fill=255)
+    draw.text((0,32), chr(62776), font=icon_font, fill=255)
+    draw.text((20, 32), str(MemUsage,'utf-8'), font=font, fill=255)
 
     draw.text((0,16), chr(63426), font=icon_font, fill=255)
     draw.text((20, 16), str(Disk,'utf-8'), font=font, fill=255)

@@ -1,0 +1,43 @@
+[21:45:50] [Server thread/INFO]: Starting minecraft server version 1.12.2
+[21:45:50] [Server thread/INFO]: Loading properties
+[21:45:51] [Server thread/INFO]: Default game type: SURVIVAL
+[21:45:51] [Server thread/INFO]: Generating keypair
+[21:45:51] [Server thread/INFO]: Starting Minecraft server on *:25565
+[21:45:51] [Server thread/INFO]: Using default channel type
+[21:45:51] [Server thread/INFO]: Preparing level "world"
+[21:45:53] [Server thread/INFO]: Loaded 488 advancements
+[21:45:53] [Server thread/INFO]: Preparing start region for level 0
+[21:45:54] [Server thread/INFO]: Preparing spawn area: 0%
+[21:45:55] [Server thread/INFO]: Preparing spawn area: 21%
+[21:45:56] [Server thread/INFO]: Preparing spawn area: 63%
+[21:45:57] [Server thread/INFO]: Preparing spawn area: 99%
+[21:45:57] [Server thread/INFO]: Done (5.669s)! For help, type "help" or "?"
+[21:46:58] [User Authenticator #1/INFO]: UUID of player karacaoglan is 0453fe87-ea22-4446-ad02-1903a158e7e8
+[21:46:58] [Server thread/INFO]: karacaoglan[/192.168.1.8:52181] logged in with entity id 314 at (262.69999998807907, 48.0, -58.6172947637276)
+[21:46:58] [Server thread/INFO]: karacaoglan joined the game
+[21:47:12] [Server thread/WARN]: karacaoglan moved too quickly! -17.820233142882806,0.9258797781524422,-3.6720918532700466
+[21:47:13] [Server thread/WARN]: karacaoglan moved too quickly! -15.702695171343517,5.646970500679828,6.57907974723112
+[21:47:15] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4250ms behind, skipping 85 tick(s)
+[21:47:37] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6761ms behind, skipping 135 tick(s)
+[21:47:42] [Server thread/WARN]: karacaoglan moved too quickly! -11.815543672228586,5.5487651809298555,12.928416307319708
+[21:47:43] [Server thread/WARN]: karacaoglan moved too quickly! -11.4263899815737,3.9979178149808163,12.831121287982512
+[21:47:43] [Server thread/WARN]: karacaoglan moved too quickly! -11.209007563112678,1.609054692606371,14.675323943842898
+[21:47:44] [Server thread/WARN]: karacaoglan moved too quickly! -4.498354310344965,1.9750288627168544,17.68322977835618
+[21:47:47] [Server thread/WARN]: karacaoglan moved too quickly! -10.295504360393764,-1.578183732790535,15.498214344940777
+[21:47:49] [Server thread/WARN]: karacaoglan moved too quickly! -10.295504470750757,-1.5781836342744526,15.498214511065783
+[21:47:51] [Server thread/WARN]: karacaoglan moved too quickly! -10.295504470830366,-1.578183634203377,15.498214511185608
+[21:48:03] [Server thread/WARN]: karacaoglan moved too quickly! -4.289828315130961,5.6160771331080355,17.021894240151255
+[21:48:04] [Server thread/WARN]: karacaoglan moved too quickly! -3.4494424977546316,4.162274544896583,17.57295346287151
+[21:48:05] [Server thread/WARN]: karacaoglan moved too quickly! -2.988631928429413,0.6947876952111969,18.218457647462174
+[21:48:10] [Server thread/INFO]: karacaoglan has made the advancement [A Terrible Fortress]
+[21:48:13] [Server thread/INFO]: karacaoglan lost connection: Disconnected
+[21:48:13] [Server thread/INFO]: karacaoglan left the game
+[21:48:14] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 26757ms behind, skipping 535 tick(s)
+[21:48:56] [Server thread/INFO]: Stopping the server
+[21:48:56] [Server thread/INFO]: Stopping server
+[21:48:56] [Server thread/INFO]: Saving players
+[21:48:56] [Server thread/INFO]: Saving worlds
+[21:48:56] [Server thread/INFO]: Saving chunks for level 'world'/overworld
+[21:48:56] [Server thread/INFO]: Saving chunks for level 'world'/the_nether
+[21:48:56] [Server thread/INFO]: Saving chunks for level 'world'/the_end
+[21:48:56] [Server Shutdown Thread/INFO]: Stopping server
